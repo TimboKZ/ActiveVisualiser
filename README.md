@@ -6,7 +6,7 @@ Active Visualiser by Timbo_KZ. [Demo on YouTube](https://www.youtube.com/watch?v
 Dependencies
 ============
 
-This project uses Java SDK 1.7. You will need [Beads Project](http://www.beadsproject.net/), [LWJGL 2.9.1]() and [Slick]().
+This project uses Java SDK 1.7. You will need [Beads Project](http://www.beadsproject.net/), [LWJGL 2.9.1](http://legacy.lwjgl.org/) and [Slick](http://slick.ninjacave.com/).
 
 Running and controlling the visualiser
 ======================================
