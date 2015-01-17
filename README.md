@@ -1,7 +1,7 @@
 Active Visualiser
 =================
 
-Active Visualiser by Timbo_KZ.
+Active Visualiser by Timbo_KZ. [Demo on YouTube](https://www.youtube.com/watch?v=OUPmbOWXMtE).
 
 Dependencies
 ============
